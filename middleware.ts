@@ -1,0 +1,1 @@
+// Remove middleware completely - file can be deleted
